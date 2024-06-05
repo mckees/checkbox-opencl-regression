@@ -1,4 +1,4 @@
-id: kivu-media-stress
+id: opencl-regression
 unit: test plan
 _name: Kivu chromium hardware decoding stress check
 include:
